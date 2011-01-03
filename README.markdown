@@ -29,7 +29,7 @@ link:files/vendor/rails/actionpack/README.html.
 == Getting Started
 
 1. At the command prompt, create a new Rails application:
-       <tt>rails new myapp</tt> (where <tt>myapp</tt> is the application name)
+       <tt>rails new Jung's Test</tt> (where <tt>myapp</tt> is the application name)
 
 2. Change directory to <tt>myapp</tt> and start the web server:
        <tt>cd myapp; rails server</tt> (run with --help for options)
